@@ -6,6 +6,8 @@ const HomePage = () => {
   const [loading, setLoading] = useState(true);
 
   const handleSubmit= () => {
+    console.log(title)
+    console.log(content)
 
   }
   return <div className="min-h-screen bg-base-200">

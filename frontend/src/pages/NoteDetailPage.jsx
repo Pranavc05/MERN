@@ -5,4 +5,4 @@ const NoteDetailPage = () => {
   )
 }
 
-export default HomePage
+export default NoteDetailPage
